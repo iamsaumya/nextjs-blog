@@ -20,8 +20,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           I am pursuing BTech in Information Technology. I have found my love to
-          build web applications. At present I am learning Nodejs, Reactjs,
-          Typescript and Graphql from fullstackopen.com
+          build web applications.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
